@@ -4,7 +4,7 @@
 
 # Inicialização
 
-Modo de desenvolvimento
-```npm run dev```
-Modo de produção
+Modo de desenvolvimento<br>
+```npm run dev```<br>
+Modo de produção<br>
 ```npm run build```
